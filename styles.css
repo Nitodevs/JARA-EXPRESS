@@ -1,0 +1,203 @@
+@media only screen and (max-width:500px){
+*{box-sizing: border-box;}
+body {
+  background-color:white;
+  color: black;
+  font-family: serif;
+  cursor: default;
+  text-align: center;
+}
+div .sitelogo{
+  width:100vw;
+  border-radius:0px;
+  position:
+}
+div nav .navnotes {
+  display:block;
+  width: 100vw;
+}
+div img{
+  width: 150px;
+  height: 150px;
+  display:run-in;
+  border-radius: 50%;
+}
+.polaroid{
+  width: 100vw;
+  height:auto;
+  text-align: center;
+  margin-left: 0;
+}
+
+nav{
+  background-color:#ff0000;
+  width: 100%;
+  padding: 10px 0px;
+  height: auto;
+  text-align: center;
+}
+.apk {
+  column-count:2;
+  text-align: center;
+}
+h1{
+  font-family: serif;
+  font-style: oblique;
+  font-size: 25px;
+  text-align: center;
+}
+a{
+  cursor:default;
+   text-decoration: none;
+   color: black;
+   font-weight: bold;
+   font-size: 10px;
+}
+a:hover{
+   text-decoration: none;
+   color: black;
+   cursor: default;
+}
+.footera {
+  display: inline-block;
+  font-size:90px;
+  text-align: center;
+  margin-left: 15px;
+}
+.footerb {
+  text-align: center;
+  background-color:#ff0000;
+  height: 160px;
+}
+hr{
+  width: 100vw;
+  border: 1px solid white;
+}
+h4{
+  color:black;
+  font-size: 17px;
+  text-align:left;
+  line-height:0.8;
+}
+h6{
+  color: black;
+  font-size: 15px;
+  line-height:0.8;
+}
+#location{
+  width:100%;
+  padding:7px;
+  border-radius: 5px;
+  margin-right: 150px;
+}
+.signlog {
+  display: inline;
+}
+.profilelogo i{
+  background-color:#ff0000;
+  text-align:center;
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+}
+}
+@media only screen and (min-width:500px){
+*{border-box:box-sizing;}
+body {
+  background-color:white;
+  color: black;
+  font-family: serif;
+  cursor: default;
+}
+.sitelogo{
+  text-align: center;
+  height: auto;
+}
+div nav .navnotes {
+  text-align: center;
+}
+nav{
+  background-color:#ff0000;
+  width: 100%;
+  padding: 10px 0px;
+  height: auto;
+  word-spacing: 300px;
+  text-align: center;
+}
+.apk {
+  column-count:2;
+  text-align: center;
+  margin-left: 20%;
+  column-gap: 30%;
+}
+h1{
+  font-family: serif;
+  font-style: oblique;
+  font-size: 30px;
+  text-align: center;
+}
+.polaroid{
+
+}
+.row{
+text-align: center;
+}
+div img{
+  width: 150px;
+  height: 100px;
+}
+a{
+  cursor:default;
+   text-decoration: none;
+   color: black;
+   font-weight: bold;
+   font-size: 12px;
+}
+a:hover{
+   text-decoration: none;
+   color: black;
+   cursor: default;
+}
+.footera {
+  font-size:100px;
+  text-align: center;
+
+
+}
+.footerb {
+  text-align: center;
+  background-color:#ff0000;
+  height: 160px;
+}
+hr{
+  width: 100vw;
+  border: 1px solid white;
+}
+h4{
+  color:black;
+  font-size: 17px;
+  text-align:left;
+  line-height:0.8;
+}
+h6{
+  color: black;
+  font-size: 15px;
+  line-height:0.8;
+}
+#location{
+  width:100%;
+  padding:7px;
+  border-radius: 5px;
+  margin-right: 150px;
+}
+.container{
+  text-align: left;
+}
+.profilelogo i{
+  background-color:#ff0000;
+  text-align:center;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+}
